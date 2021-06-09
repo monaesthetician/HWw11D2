@@ -1,3 +1,9 @@
+// recreated Logo of the website.
+// created some graphics in Play.css
+// rotated pictures in Shop and Play sections in Play.css
+// I will change font tomorrow
+
+
 import React, {Component} from 'react';
 import NavBar from './Navbar';
 import Footer from './Footer';
