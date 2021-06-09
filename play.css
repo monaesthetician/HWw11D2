@@ -1,0 +1,155 @@
+.queenCity {
+    background-color: grey;
+    text-align: center;
+    color: honeydew;
+    
+}
+
+.eat-container {
+    background-color: coral;
+    align-items: flex-start;
+    text-align: center;
+   
+}
+
+ #A {
+     display: flexbox;
+     margin: 20px;
+     z-index: -1;
+     transform: rotate(350deg);
+     border-radius: 10%;
+     border: white solid 3px;
+    
+ }
+
+ #B {
+     display: flexbox;
+     margin: -50px;
+     margin-top: 100px;
+     transform: rotate(10deg);
+     border-radius: 10%;
+     border: white solid 3px;
+     
+ }
+
+ #C {
+    display: flexbox;
+    width: 20em;
+    transform: rotate(20deg);
+    border-radius: 10%;
+    border: white solid 3px;
+    
+ }
+ #D {
+    display: flexbox;
+    width: 20em;
+    transform: rotate(354deg);
+    border-radius: 10%;
+    border: white solid 3px;
+    margin-top: 40px;
+    margin-left: -50px;
+    z-index: -1; 
+    
+ }
+ #E {
+    display: flexbox;
+    width: 15em;
+    border-radius: 10%; 
+    border: white solid 3px;
+    transform: rotate(20deg);
+    
+ }
+
+ /* Shop section */
+ .shop-container {
+     background-color:#fff;
+     text-align: center;
+     margin-top: 30px;
+     
+ }
+
+ #F {
+    display: flexbox;
+    width: 18em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(350deg);
+ }
+
+ #G {
+    display: flexbox;
+    width: 18em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(20deg);
+ }
+
+ #H {
+    display: flexbox;
+    width: 18em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(350deg);
+ }
+
+ #I {
+    display: flexbox;
+    width: 20em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(15deg);
+ }
+
+ #queencity {
+    width: 50px;
+    margin-top: 50px;
+ }
+
+ /* PLAY SECTION */
+ .play-container {
+     background-color: coral;
+     text-align: center;
+     margin-top: 50px;
+     
+ }
+
+
+ #J {
+    display: flexbox;
+    width:20em;
+    margin-top: 20px;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(350deg);
+ }
+ #K {
+    display: flexbox;
+    margin-top: 20px;
+    width: 20em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(20deg);
+    z-index: -1;
+ }
+ #L {
+    display: flexbox;
+    width: 20em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(350deg);
+ }
+ #M {
+    display: flexbox;
+    width: 20em;
+    border-radius: 10%; 
+    border: white solid 3px; 
+    transform: rotate(350deg);
+ }
+#weLove {
+   width: 180px;
+   margin-left: 80px;
+   margin-top: -100px;
+   transform: rotate(330deg);
+   z-index: 1;
+}
+ 
